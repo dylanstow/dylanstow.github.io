@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Dylan Stow 
+title: Dylan Stow's Blog
 ---
+    <h1>{{ page.title }}</h1>
+    <ul class="posts">
 
-<div class="blurb">
-	<h1>About Me: Dylan Stow Randall</h1>
-	<p>Here is more information about me. Enjoy!</p>
-</div><!-- /.blurb -->
+      {% for post in site.posts %}
+        <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ pos.title }}</a></li>
+      {% endfor %}
+    </ul>

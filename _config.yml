@@ -87,7 +87,7 @@ author:
   name             : "Dylan Stow"
   avatar           : "/assets/images/DylanProfile.jpg"
   bio              : "Computer Engineering PhD Student at UCSB's Scalable Energy-Efficienct Architecture Lab (SEAL)."
-  location         : "Santa Barbara, CA and Pasadena, CA"
+  location         : "Santa Barbara, CA"
   email            : "dstow@ucsb.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"

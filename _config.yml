@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dylan Stow"
+title                    : "Dylan Stow - Personal Website"
 title_separator          : "-"
 name                     : "Dylan Stow"
 description              : "Personal Website of Dylan Stow, Computer Engineering Researcher."
@@ -86,8 +86,8 @@ analytics:
 author:
   name             : "Dylan Stow"
   avatar           : "/assets/images/DylanProfile.jpg"
-  bio              : "Computer Engineering PhD Student at UCSB."
-  location         : "Denver, CO"
+  bio              : "Computer Engineering PhD Student at UCSB's Scalable Energy-Efficienct Architecture Lab (SEAL)."
+  location         : "Santa Barbara, CA and Pasadena, CA"
   email            : "dstow@ucsb.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "dylanstow"
   gitlab           :
   google_plus      :
   keybase          :
@@ -183,7 +183,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)

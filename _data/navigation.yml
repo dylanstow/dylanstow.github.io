@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About"
+    url: /about/
+  - title: "CV"
+    url: http://res.cloudinary.com/dylanstow/image/upload/v1517419157/cv-dylanstow_ucuqnm.pdf
+  - title: "UCSB SEAL Webpage"
+    url: https://seal.ece.ucsb.edu/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

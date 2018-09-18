@@ -1,5 +1,7 @@
 ---
-title: Research and Projects
+permalink: /research/
+title: "Research"
+excerpt: "Research Stuff"
 ---
 
 # Test

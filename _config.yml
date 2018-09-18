@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dylan Stow - Personal Website"
+title                    : "Dylan Stow - Computer Engineer"
 title_separator          : "-"
 name                     : "Dylan Stow"
 description              : "Personal Website of Dylan Stow, Computer Engineering Researcher."

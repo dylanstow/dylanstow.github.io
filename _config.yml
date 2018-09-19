@@ -89,6 +89,13 @@ author:
   bio              : "Computer Engineering PhD Student at UCSB's Scalable Energy-Efficienct Architecture Lab (SEAL)."
   location         : "Santa Barbara, CA"
   email            : "dstow@ucsb.edu"
+  links: 
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=VroKvTsAAAAJ&hl=en" 
+    - label: "UCSB SEAL Group"
+      icon: "fas fa-fw fa-school"
+      url: "https://seal.ece.ucsb.edu/" 
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
